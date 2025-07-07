@@ -4,5 +4,5 @@
 ![image](https://github.com/user-attachments/assets/00d43af4-3fb0-4d41-9c0a-3c902584ff7b)
 
 ## Author
-Nguyen Hoang Hai - [@nguyenhoanghai1605](https://github.com/nguyenhoanghai1605)
-Devapro235 - (https://github.com/Devapro235)
+Co-authored-by: Nguyen Hoang Hai - [@nguyenhoanghai1605](https://github.com/nguyenhoanghai1605)
+Co-authored-by: Devapro235 - (https://github.com/Devapro235)
